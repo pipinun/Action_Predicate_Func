@@ -1,0 +1,15 @@
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/Action_Predicate_Func
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/Action_Predicate_Func.deps.json
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/Action_Predicate_Func.runtimeconfig.json
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/Action_Predicate_Func.dll
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/ref/Action_Predicate_Func.dll
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/bin/Debug/net6.0/Action_Predicate_Func.pdb
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.csproj.AssemblyReference.cache
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.AssemblyInfoInputs.cache
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.AssemblyInfo.cs
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.csproj.CoreCompileInputs.cache
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.dll
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/ref/Action_Predicate_Func.dll
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.pdb
+/home/sarvar/Projects/Delegate_Action_Predicate_Func/Action_Predicate_Func/Action_Predicate_Func/obj/Debug/net6.0/Action_Predicate_Func.genruntimeconfig.cache
